@@ -13,4 +13,4 @@ A Kraken CLI tool, barebone. Check your balance
 - Your balance is displayed
 
 # Caveats
-This is just a demo project for personal use. Feel free to update to support your currencies. Not tested and not production ready.
+This is just a (hacked) demo project for personal use. Feel free to update to support your currencies. Not tested and not production ready.
