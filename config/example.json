@@ -1,0 +1,8 @@
+{
+  "kraken": {
+    "credentials": {
+      "api-key": "KRAKEN API KEY",
+      "private-key": "KRAKEN PRIVATE KEY"
+    }
+  }
+}
